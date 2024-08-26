@@ -1,0 +1,1 @@
+{"success":true,"name":"Hilebol","language":"tr","havePlan":true,"plan":{"_id":"f9d414081840","name":"Premium","remaining":{"days":"574","hours":"21","minutes":"55"}},"isReady":true,"isLatestVersion":false}

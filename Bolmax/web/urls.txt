@@ -1,0 +1,7 @@
+[+] https://bolmax.co/api/exe/validate?code=b2880623-2aec-4289-9c7f-b758a15f0794&buildDate=2024-07-09
+[+] https://bolmax.co/api/exe/validate2?code=b2880623-2aec-4289-9c7f-b758a15f0794&bcode=2f4b4aa0-229e-4fdf-bb98-e5bd4ac74d02&bdate=2024-07-20
+[+] https://bolmax.co/api/exe/validate2?code=2d7c058d-93d7-45bc-82d2-8953daa201cc&bcode=ee4cc331-6045-4a5c-b9c2-d4d9ad265461&bdate=2024-07-21
+[+] https://bolmax.co/api/exe/websets2
+[+] https://bolmax.co/api/exe/websets
+[+] https://bolmax.co/api/exe/check
+[+] https://bolmax.co/api/exe/time

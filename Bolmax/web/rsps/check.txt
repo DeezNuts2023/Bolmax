@@ -1,0 +1,1 @@
+{connectionIsGood} {bolmax_is_fresh} {build_is_not_fresh} {bmPlanActive} {packet_2}
